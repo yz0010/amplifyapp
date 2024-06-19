@@ -7,12 +7,12 @@ import Card from './Card'; // Import the Card component
 function App() {
   return (
     <div className="App">
-      <Navbar /> {/* Able to add the Navbar component */}
+      <Navbar /> {/* Able to add the navbar component */}
       <h1>CS 230L</h1>
       <h2>Section - 002</h2>
       <p>WVU ID: 800195122</p>
       <p>Hi I am Yu Zhou</p>
-      <Card /> {/* Able to add the Card component */}
+      <Card /> {/* Able to add the card component */}
     </div>
   );
 }
